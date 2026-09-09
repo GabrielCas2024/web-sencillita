@@ -9,8 +9,10 @@ body {
 header {
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
-    text-align: center;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
 }
 
 nav ul {
@@ -41,4 +43,9 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+
+.logo {
+    width: 70px;
+    height: auto;
 }
