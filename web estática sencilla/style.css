@@ -104,8 +104,10 @@ body {
 header {
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
-    text-align: center;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
 }
 
 nav ul {
@@ -138,6 +140,11 @@ footer {
     bottom: 0;
 }
 
+
+.logo {
+    width: 70px;
+    height: auto;
+=======
 #logout-button {
     margin-top: 8px;
     background: #b42318;
@@ -145,5 +152,5 @@ footer {
 
 .user-greeting {
     margin: 12px 0 0;
-    color: #b7d9ef;
+
 }
