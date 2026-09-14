@@ -2,10 +2,6 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
-    background-color: #f0f2f5;
-    color: #333;
-=======
     background-color: #f4f4f4;
     color: #222;
 }
@@ -102,27 +98,16 @@ body {
 
 .back-link a {
     color: #1769aa;
->>>>>>> upstream/master
 }
 
 
 header {
-<<<<<<< HEAD
-    background-color: #3b82f6;
-    color: white;
-    padding: 12px 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 3px solid #2563eb;
-=======
     background-color: #333;
     color: #fff;
     padding: 10px 20px;
     display: flex;
     align-items: center;
     gap: 20px;
->>>>>>> upstream/master
 }
 
 .logo {
@@ -188,16 +173,14 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-<<<<<<< HEAD
-}
-=======
 }
 
 
 .logo {
     width: 70px;
     height: auto;
-=======
+}
+
 #logout-button {
     margin-top: 8px;
     background: #b42318;
@@ -205,6 +188,4 @@ footer {
 
 .user-greeting {
     margin: 12px 0 0;
-
 }
->>>>>>> upstream/master
